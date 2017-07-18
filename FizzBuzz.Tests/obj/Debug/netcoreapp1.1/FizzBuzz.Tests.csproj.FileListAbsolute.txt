@@ -1,0 +1,16 @@
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.deps.json
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.runtimeconfig.json
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.runtimeconfig.dev.json
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp1.1/FizzBuzz.Tests.AssemblyInfo.cs
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.pdb
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.pdb
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp1.1/FizzBuzz.Tests.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/obj/Debug/netcoreapp1.1/FizzBuzz.Tests.pdb
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/NUnit3.TestAdapter.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/nunit.engine.netstandard.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/Mono.Cecil.dll

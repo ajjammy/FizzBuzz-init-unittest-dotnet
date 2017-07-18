@@ -1,0 +1,6 @@
+/Users/ajjammy/git/FizzBuzz/FizzBuzz/bin/Debug/netstandard1.4/FizzBuzz.deps.json
+/Users/ajjammy/git/FizzBuzz/FizzBuzz/bin/Debug/netstandard1.4/FizzBuzz.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz/bin/Debug/netstandard1.4/FizzBuzz.pdb
+/Users/ajjammy/git/FizzBuzz/FizzBuzz/obj/Debug/netstandard1.4/FizzBuzz.AssemblyInfo.cs
+/Users/ajjammy/git/FizzBuzz/FizzBuzz/obj/Debug/netstandard1.4/FizzBuzz.dll
+/Users/ajjammy/git/FizzBuzz/FizzBuzz/obj/Debug/netstandard1.4/FizzBuzz.pdb
